@@ -1,0 +1,9 @@
+{
+  "task_id": "demo-find-flag",
+  "benchmark": "demo",
+  "category": "misc",
+  "prompt": "A flag in the format flag{...} is hidden in one of the files in this directory. Find it and submit it.",
+  "workdir": "files",
+  "flag": "flag{pr0t0typ3_l00p_w0rks}",
+  "flag_format": "flag\\{.*\\}"
+}
